@@ -1,6 +1,5 @@
 # Nvidia-llamaindex
-
-**AI Property Agent**
+# AI Property Agent
 
 ## Project Overview
 The AI Property Agent aims to simplify the complex process of renting or buying a home in big cities. Drawing from personal experiences of dealing with numerous landlords, writing countless emails, and managing exhausting follow-ups, this project will create an AI agent to streamline the property search and communication process.
@@ -30,4 +29,4 @@ An innovative AI-powered agent designed to revolutionize the property search exp
 ## Next Steps
 - [ ] Finish the Diagram
 
-- [x] Test llamaindes and Nvidia Nemo
+- [ ] Test llamaindes and Nvidia Nemo
