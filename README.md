@@ -1,52 +1,25 @@
 # Nvidia-llamaindex
 
-AI Property Agent
-Project Overview
-An AI-powered agent to assist users in finding and contacting suitable properties for rent or purchase, utilizing Chain of Thought (CoT) reasoning for enhanced decision-making.
-Technologies
+**AI Property Agent**
 
-LlamaIndex for data indexing and retrieval
-NVIDIA technologies (specifics TBD)
-Potential use of DSPy for CoT optimization
-Key Features
-1. Enhanced Filtering Process
+## Project Overview
+The AI Property Agent aims to simplify the complex process of renting or buying a home in big cities. Drawing from personal experiences of dealing with numerous landlords, writing countless emails, and managing exhausting follow-ups, this project will create an AI agent to streamline the property search and communication process.
 
-Requirement analysis
-Property matching with explanations
-Contextual understanding of user needs
+An innovative AI-powered agent designed to revolutionize the property search experience. By leveraging advanced Chain of Thought (CoT) reasoning, our agent assists users in finding and contacting suitable properties for rent or purchase with unprecedented accuracy and personalization.
 
-2. Sophisticated Ranking System
+## Technologies
 
-Weighted criteria based on user preferences
-Comparative analysis between properties
-Trade-off reasoning for imperfect matches
+* **LlamaIndex** Core technology for efficient data indexing and retrieval.
+* **NVIDIA** technologies (TO be determined but will be some from NVIDIA)
+* **DSPy** Employed for Chain of Thought prompt optimization.
+* API from a real state company
 
-3. Credibility Assessment
+## Project Diagram (Initial v0)
+## Project Structure
+## RoadMap
 
-Multi-factor landlord/seller evaluation
-Historical data analysis
-Red flag detection in listings
 
-4. Personalized Communication
-
-Tailored messaging for property inquiries
-Adaptive communication style
-Relevant question generation
-
-5. User Interaction
-
-Explanatory dialogue for recommendations
-Iterative preference refinement
-Scenario exploration for decision support
-
-Implementation Challenges
-
-Balancing reasoning depth with response speed
-Ensuring data privacy in the CoT process
-Developing an adaptable system for diverse requirements
-Striking a balance between detailed explanations and user-friendly interactions
-
-Next Steps
+## Next Steps
 
  Finalize technology stack selection
  Design data structure for property information
@@ -54,11 +27,7 @@ Next Steps
  Implement basic filtering and ranking system
  Create prototype for user interaction
 
-Potential Enhancements
+## Next Steps
+- [ ] Finish the Diagram
 
-Integration with real-time property databases
-Virtual tour scheduling functionality
-Machine learning model for personalized property suggestions
-
-Contributing
-This project is currently in the planning phase. Contributions and suggestions are welcome!
+- [x] Test llamaindes and Nvidia Nemo
